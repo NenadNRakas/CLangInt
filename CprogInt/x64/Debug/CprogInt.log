@@ -1,0 +1,3 @@
+﻿  CintProg.c
+c:\users\nenadnrakas\source\repos\cprogint\cprogint\cintprog.c(19): warning C4133: 'initializing': incompatible types - from 'char [1]' to 'person *'
+  CprogInt.vcxproj -> C:\Users\NenadNRakas\source\repos\CprogInt\x64\Debug\CprogInt.exe
